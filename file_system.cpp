@@ -149,6 +149,8 @@ int main() {
     cout << "del: To delete the created file" << endl;
     cout << "Ls: to list out all the files created" << endl;
     cout << "Exit: To exit from the File Syste." << endl;
+    cout << "Cd.. : Use this to exit from a directory/File" << endl;
+    cout << " " << endl;
     shell();
     return 0;
 }
